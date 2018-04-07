@@ -19,45 +19,45 @@ let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel)
 let authorName = prompt('What is your full name?');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
-
+let adjective = prompt('Give me a word to describe something:');
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
-
+let vehicle = prompt('What is a mode of transportation?');
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
-
+let vehiclePart = prompt('What is a part of the vehicle you just named?');
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
-
+let parking = prompt('What is a location where you park the vehicle you just named?');
 // TODO: A variable named "precious" for a precious object.
-
+let precious = prompt('Name a precious object.');
 // TODO: A variable named "noiseMaker" for something that makes a sound.
-
+let noiseMaker = prompt('Something that makes a sound');
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
-
+let crowdBehavior = prompt('Something that people do together');
 // TODO: A variable named "adjective2" for a word used to describe something.
-
+let adjective2 = prompt('A word used to describe something.');
 // TODO: A variable named "adjective3" for a word used to describe something.
-
+let adjective3 = prompt('A word that describes something');
 // TODO: A variable named "color" for the name of a color.
-
+let color = prompt('The name of a color');
 // TODO: A variable named "familyMember" for the name of a family relationship (e.g. sister, father, etc.).
-
+let familyMember = prompt('Name of a family relationship.');
 // TODO: A variable named "organ" for the name of a body organ (e.g. heart, liver, spleen, etc.).
-
+let organ = prompt('Name of a body organ');
 // TODO: A variable named "bodyPart1" for the name of a body part.
-
+let bodyPart1 = prompt('Name of a body part');
 // TODO: A variable named "bodyPart2" for the name of a body part.
-
+let bodyPart2 = prompt('Name of a body part');
 // TODO: A variable named "bodyPart3" for the name of a body part.
-
+let bodyPart3 = prompt('Name of a body part');
 // TODO: A variable named "thing" for an object.
-
+let thing = prompt('An object');
 // TODO: A variable named "thing2" for an object you might give somebody you love.
-
+let thing2 = prompt('An object you might give to somebody you love.');
 // TODO: A variable named "thing3" for an object you might give somebody you like.
-
+let thing3 = prompt('An object you might give somebody you like.');
 // TODO: A variable named "adjective4" for a word used to describe the vehicle.
-
+let adjective4 = prompt('A word used to describe the vehicle.');
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
-
+let adjective5 = prompt('A word used to descrive the vehicle.');
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
